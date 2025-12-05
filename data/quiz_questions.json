@@ -1,0 +1,579 @@
+{
+  "categories": {
+    "ONE PIECE": [
+      {
+        "question": "What drives you the most?",
+        "options": [
+          {"text": "Freedom above all!", "character": "luffy"},
+          {"text": "Protecting my crew", "character": "zoro"},
+          {"text": "Finding true history & knowledge", "character": "robin"},
+          {"text": "Becoming the best at what I do", "character": "sanji"}
+        ]
+      },
+      {
+        "question": "How do you handle conflict?",
+        "options": [
+          {"text": "Charge straight in!", "character": "luffy"},
+          {"text": "Stay calm and tactical", "character": "jinbe"},
+          {"text": "Cut it down instantly", "character": "zoro"},
+          {"text": "Manipulate from the shadows", "character": "crocodile"}
+        ]
+      },
+      {
+        "question": "Your greatest strength?",
+        "options": [
+          {"text": "Unbreakable spirit", "character": "luffy"},
+          {"text": "Unshakable loyalty", "character": "zoro"},
+          {"text": "Intelligence & patience", "character": "robin"},
+          {"text": "Pure determination", "character": "smoker"}
+        ]
+      },
+      {
+        "question": "Pick a role on a crew:",
+        "options": [
+          {"text": "Captain", "character": "luffy"},
+          {"text": "First mate", "character": "zoro"},
+          {"text": "Cook", "character": "sanji"},
+          {"text": "Strategist", "character": "nami"}
+        ]
+      },
+      {
+        "question": "Your preferred battle type?",
+        "options": [
+          {"text": "Hand-to-hand brawl", "character": "luffy"},
+          {"text": "Swordsmanship", "character": "zoro"},
+          {"text": "Smart tactical approach", "character": "robin"},
+          {"text": "Style and elegance", "character": "sanji"}
+        ]
+      }
+    ],
+
+    "ONE PUNCH MAN": [
+      {
+        "question": "What's your training style?",
+        "options": [
+          {"text": "100 push-ups, 100 sit-ups, 10km run daily", "character": "saitama"},
+          {"text": "Extreme full-power training", "character": "genos"},
+          {"text": "Calm mastery and precision", "character": "bang"},
+          {"text": "Power by force and terror", "character": "tatsumaki"}
+        ]
+      },
+      {
+        "question": "How strong are you mentally?",
+        "options": [
+          {"text": "Unbothered by anything", "character": "saitama"},
+          {"text": "Constantly seeking improvement", "character": "genos"},
+          {"text": "Experienced & wise", "character": "bang"},
+          {"text": "Short-tempered & explosive", "character": "tatsumaki"}
+        ]
+      },
+      {
+        "question": "Choose your personality:",
+        "options": [
+          {"text": "Lazy but unstoppable", "character": "saitama"},
+          {"text": "Serious hero", "character": "genos"},
+          {"text": "Balanced & composed", "character": "bang"},
+          {"text": "Chaotic & powerful", "character": "tatsumaki"}
+        ]
+      },
+      {
+        "question": "What type of opponent annoys you?",
+        "options": [
+          {"text": "Weak ones acting tough", "character": "saitama"},
+          {"text": "Those who waste potential", "character": "genos"},
+          {"text": "Brainless brutes", "character": "bang"},
+          {"text": "People who don’t respect power", "character": "tatsumaki"}
+        ]
+      },
+      {
+        "question": "Choose a motto:",
+        "options": [
+          {"text": "Just for fun", "character": "saitama"},
+          {"text": "Upgrade myself endlessly", "character": "genos"},
+          {"text": "Protect and teach", "character": "bang"},
+          {"text": "Crush anything in my way", "character": "tatsumaki"}
+        ]
+      }
+    ],
+
+    "DRAGON BALL Z": [
+      {
+        "question": "What is the purpose of your strength?",
+        "options": [
+          {"text": "For the thrill of battle!", "character": "goku"},
+          {"text": "To surpass rivals and prove myself", "character": "vegeta"},
+          {"text": "To protect people I love", "character": "gohan"},
+          {"text": "Balance & wisdom", "character": "piccolo"}
+        ]
+      },
+      {
+        "question": "Pick a transformation style:",
+        "options": [
+          {"text": "Raw instinct and power", "character": "goku"},
+          {"text": "Prideful intensity", "character": "vegeta"},
+          {"text": "Hybrid potential", "character": "gohan"},
+          {"text": "Calm controlled evolutions", "character": "piccolo"}
+        ]
+      },
+      {
+        "question": "Choose a rival type:",
+        "options": [
+          {"text": "Friendly rival", "character": "goku"},
+          {"text": "Life-consuming rivalry", "character": "vegeta"},
+          {"text": "Admirer of strength", "character": "gohan"},
+          {"text": "No rivals needed", "character": "piccolo"}
+        ]
+      },
+      {
+        "question": "Your work ethic:",
+        "options": [
+          {"text": "Train with joy", "character": "goku"},
+          {"text": "Train with rage & discipline", "character": "vegeta"},
+          {"text": "Train when demanded", "character": "gohan"},
+          {"text": "Train in silence", "character": "piccolo"}
+        ]
+      },
+      {
+        "question": "Choose battle strategy:",
+        "options": [
+          {"text": "Attack head-on", "character": "goku"},
+          {"text": "Overwhelm opponents", "character": "vegeta"},
+          {"text": "Weigh options + protect innocents", "character": "gohan"},
+          {"text": "Observe weaknesses quietly", "character": "piccolo"}
+        ]
+      }
+    ],
+
+    "DEATH NOTE": [
+      {
+        "question": "What would you do with a powerful tool?",
+        "options": [
+          {"text": "Control the world", "character": "light"},
+          {"text": "Uncover the truth", "character": "L"},
+          {"text": "Calculate outcomes safely", "character": "near"},
+          {"text": "Use chaos to influence", "character": "misa"}
+        ]
+      },
+      {
+        "question": "Pick your thinking style:",
+        "options": [
+          {"text": "Manipulative mastermind", "character": "light"},
+          {"text": "Silent genius", "character": "L"},
+          {"text": "Logical & emotionless", "character": "near"},
+          {"text": "Emotional & devoted", "character": "misa"}
+        ]
+      },
+      {
+        "question": "Your biggest weakness:",
+        "options": [
+          {"text": "Ambition too extreme", "character": "light"},
+          {"text": "Lack of empathy", "character": "L"},
+          {"text": "Overconfidence in logic", "character": "near"},
+          {"text": "Blind loyalty", "character": "misa"}
+        ]
+      },
+      {
+        "question": "How dangerous are you?",
+        "options": [
+          {"text": "Extremely dangerous, and I know it", "character": "light"},
+          {"text": "Unpredictably dangerous", "character": "L"},
+          {"text": "Secretly dangerous", "character": "near"},
+          {"text": "Accidentally dangerous", "character": "misa"}
+        ]
+      },
+      {
+        "question": "Pick your goal:",
+        "options": [
+          {"text": "Create a perfect world", "character": "light"},
+          {"text": "Reveal truth regardless of cost", "character": "L"},
+          {"text": "Maintain justice silently", "character": "near"},
+          {"text": "Follow heart over logic", "character": "misa"}
+        ]
+      }
+    ],
+
+    "JJk": [
+      {
+        "question": "What is your curse fighting style?",
+        "options": [
+          {"text": "Pure physical beast mode", "character": "itadori"},
+          {"text": "Brutal unstoppable dominance", "character": "gojo"},
+          {"text": "Silent, calculating", "character": "megumi"},
+          {"text": "Unhinged chaotic power", "character": "mahito"}
+        ]
+      },
+      {
+        "question": "Pick a personality style:",
+        "options": [
+          {"text": "Energetic & selfless hero", "character": "itadori"},
+          {"text": "Cocky strongest alive", "character": "gojo"},
+          {"text": "Quiet strategist", "character": "megumi"},
+          {"text": "Chaotic dark thinker", "character": "mahito"}
+        ]
+      },
+      {
+        "question": "What motivates you?",
+        "options": [
+          {"text": "Save others", "character": "itadori"},
+          {"text": "Enjoy power", "character": "gojo"},
+          {"text": "Protect my own in silence", "character": "megumi"},
+          {"text": "Chaos, curiosity and evolution", "character": "mahito"}
+        ]
+      },
+      {
+        "question": "In battle you are:",
+        "options": [
+          {"text": "Full heart & strength", "character": "itadori"},
+          {"text": "Overpowering overwhelming power", "character": "gojo"},
+          {"text": "Control and technique", "character": "megumi"},
+          {"text": "Terrifying unpredictability", "character": "mahito"}
+        ]
+      },
+      {
+        "question": "Pick your weapon:",
+        "options": [
+          {"text": "Bare fists", "character": "itadori"},
+          {"text": "Limitless", "character": "gojo"},
+          {"text": "Shikigami", "character": "megumi"},
+          {"text": "Soul manipulation", "character": "mahito"}
+        ]
+      }
+    ],
+
+    "INITIAL D": [
+      {
+        "question": "Your preferred driving style?",
+        "options": [
+          {"text": "Instinctively perfect drift", "character": "takumi"},
+          {"text": "Calculated racing lines", "character": "ryosuke"},
+          {"text": "Aggressive corner attacks", "character": "keisuke"},
+          {"text": "Perfect control without panic", "character": "bunta"}
+        ]
+      },
+      {
+        "question": "What pushes you to race?",
+        "options": [
+          {"text": "Finding my true ability", "character": "takumi"},
+          {"text": "Strategy and leadership", "character": "ryosuke"},
+          {"text": "Passion for speed", "character": "keisuke"},
+          {"text": "Nothing to prove, everything mastered", "character": "bunta"}
+        ]
+      },
+      {
+        "question": "Pick a mindset:",
+        "options": [
+          {"text": "Just vibing but still winning", "character": "takumi"},
+          {"text": "Perfection through study", "character": "ryosuke"},
+          {"text": "Adrenaline & competition", "character": "keisuke"},
+          {"text": "Calm lethal genius", "character": "bunta"}
+        ]
+      },
+      {
+        "question": "Choose your rival:",
+        "options": [
+          {"text": "Anyone who doubts me", "character": "takumi"},
+          {"text": "Legends", "character": "ryosuke"},
+          {"text": "Anyone faster than me", "character": "keisuke"},
+          {"text": "No rivals necessary", "character": "bunta"}
+        ]
+      },
+      {
+        "question": "Pick your upgrade plan:",
+        "options": [
+          {"text": "Improve naturally", "character": "takumi"},
+          {"text": "Tune everything perfectly", "character": "ryosuke"},
+          {"text": "Push the limit forever", "character": "keisuke"},
+          {"text": "Stay classic and perfect", "character": "bunta"}
+        ]
+      }
+    ],
+
+    "BLEACH": [
+      {
+        "question": "Which role suits you?",
+        "options": [
+          {"text": "Defender of everyone", "character": "ichigo"},
+          {"text": "Prideful leader with power", "character": "byakuya"},
+          {"text": "Cold mastermind", "character": "aizen"},
+          {"text": "Loyal protector", "character": "rukia"}
+        ]
+      },
+      {
+        "question": "Pick a power style:",
+        "options": [
+          {"text": "Hybrid overwhelming power", "character": "ichigo"},
+          {"text": "Perfect elegant precision", "character": "byakuya"},
+          {"text": "Illusion & manipulation", "character": "aizen"},
+          {"text": "Defensive & tactical support", "character": "rukia"}
+        ]
+      },
+      {
+        "question": "Choose your weakness:",
+        "options": [
+          {"text": "Over-involvement", "character": "ichigo"},
+          {"text": "Ego", "character": "byakuya"},
+          {"text": "Megalomania", "character": "aizen"},
+          {"text": "Fear of losing people", "character": "rukia"}
+        ]
+      },
+      {
+        "question": "Your priorities:",
+        "options": [
+          {"text": "Friends first", "character": "ichigo"},
+          {"text": "Honor above emotion", "character": "byakuya"},
+          {"text": "Power at any cost", "character": "aizen"},
+          {"text": "Balance and duty", "character": "rukia"}
+        ]
+      },
+      {
+        "question": "Choose battle temperament:",
+        "options": [
+          {"text": "Rage and heart", "character": "ichigo"},
+          {"text": "Composed silent killer", "character": "byakuya"},
+          {"text": "Villain mastermind", "character": "aizen"},
+          {"text": "Calm focus", "character": "rukia"}
+        ]
+      }
+    ],
+
+    "BERSERK": [
+      {
+        "question": "Your life story is about:",
+        "options": [
+          {"text": "Survival through pain", "character": "guts"},
+          {"text": "Ambition beyond morality", "character": "griffith"},
+          {"text": "Protecting someone important", "character": "casca"},
+          {"text": "Defying destiny", "character": "skullknight"}
+        ]
+      },
+      {
+        "question": "Pick a mindset:",
+        "options": [
+          {"text": "Keep walking through hell", "character": "guts"},
+          {"text": "Use people as tools", "character": "griffith"},
+          {"text": "Stay loyal through suffering", "character": "casca"},
+          {"text": "Face fate without fear", "character": "skullknight"}
+        ]
+      },
+      {
+        "question": "Pick a weapon:",
+        "options": [
+          {"text": "Massive sword", "character": "guts"},
+          {"text": "Power of charisma", "character": "griffith"},
+          {"text": "Courage and heart", "character": "casca"},
+          {"text": "Death's blade", "character": "skullknight"}
+        ]
+      },
+      {
+        "question": "Your greatest weakness:",
+        "options": [
+          {"text": "Pain and trauma", "character": "guts"},
+          {"text": "Obsession & betrayal", "character": "griffith"},
+          {"text": "Fragility under pressure", "character": "casca"},
+          {"text": "Isolation", "character": "skullknight"}
+        ]
+      },
+      {
+        "question": "Your personality style:",
+        "options": [
+          {"text": "Lone wolf warrior", "character": "guts"},
+          {"text": "Ambitious angel-devil", "character": "griffith"},
+          {"text": "Sensitive but strong", "character": "casca"},
+          {"text": "Immortal force of fate", "character": "skullknight"}
+        ]
+      }
+    ],
+
+    "Demon Slayer": [
+      {
+        "question": "How do you respond to tragedy?",
+        "options": [
+          {"text": "Fight harder and protect others", "character": "tanjiro"},
+          {"text": "Dominate through fear", "character": "muzan"},
+          {"text": "Focus and discipline", "character": "giyu"},
+          {"text": "Explosive chaotic emotion", "character": "zenitsu"}
+        ]
+      },
+      {
+        "question": "Pick a breathing style:",
+        "options": [
+          {"text": "Water", "character": "giyu"},
+          {"text": "Sun", "character": "tanjiro"},
+          {"text": "Thunder", "character": "zenitsu"},
+          {"text": "Blood demon art", "character": "muzan"}
+        ]
+      },
+      {
+        "question": "Choose what drives you:",
+        "options": [
+          {"text": "Family and compassion", "character": "tanjiro"},
+          {"text": "Control and domination", "character": "muzan"},
+          {"text": "Duty & loyalty", "character": "giyu"},
+          {"text": "Fear and adrenaline", "character": "zenitsu"}
+        ]
+      },
+      {
+        "question": "Pick battle style:",
+        "options": [
+          {"text": "Technique + emotion", "character": "tanjiro"},
+          {"text": "Brutal overwhelming strikes", "character": "muzan"},
+          {"text": "Stoic precision", "character": "giyu"},
+          {"text": "Unpredictable bursts", "character": "zenitsu"}
+        ]
+      },
+      {
+        "question": "Choose a character flaw:",
+        "options": [
+          {"text": "Too kind", "character": "tanjiro"},
+          {"text": "Cruel and empty", "character": "muzan"},
+          {"text": "Too emotionally distant", "character": "giyu"},
+          {"text": "Overly frightened", "character": "zenitsu"}
+        ]
+      }
+    ],
+
+    "MyHeroAcademia": [
+      {
+        "question": "Pick your hero type:",
+        "options": [
+          {"text": "Symbol of hope", "character": "all might"},
+          {"text": "Explosive and intense", "character": "bakugo"},
+          {"text": "Quiet analytical genius", "character": "todoroki"},
+          {"text": "Emotional hardworking outsider", "character": "deku"}
+        ]
+      },
+      {
+        "question": "Pick a personality strength:",
+        "options": [
+          {"text": "Inspiration", "character": "all might"},
+          {"text": "Confidence and power", "character": "bakugo"},
+          {"text": "Balance and focus", "character": "todoroki"},
+          {"text": "Persistence & values", "character": "deku"}
+        ]
+      },
+      {
+        "question": "Pick your weakness:",
+        "options": [
+          {"text": "Self-sacrifice", "character": "deku"},
+          {"text": "Pride", "character": "bakugo"},
+          {"text": "Emotional trauma", "character": "todoroki"},
+          {"text": "Fragile limitations", "character": "all might"}
+        ]
+      },
+      {
+        "question": "Choose your combat style:",
+        "options": [
+          {"text": "All out full power", "character": "bakugo"},
+          {"text": "Tactical ability control", "character": "todoroki"},
+          {"text": "Combined strategy", "character": "deku"},
+          {"text": "Inspirational overwhelming force", "character": "all might"}
+        ]
+      },
+      {
+        "question": "Your rival relationship:",
+        "options": [
+          {"text": "Healthy rivalry", "character": "todoroki"},
+          {"text": "Aggressive rivalry", "character": "bakugo"},
+          {"text": "Supportive rivalry", "character": "deku"},
+          {"text": "No rivals needed", "character": "all might"}
+        ]
+      }
+    ],
+
+    "Solo Leveling": [
+      {
+        "question": "What type of power evolution is your style?",
+        "options": [
+          {"text": "Silent grind until unstoppable", "character": "sung jin-woo"},
+          {"text": "Born powerful", "character": "thomas andre"},
+          {"text": "Deadly tactical execution", "character": "cha hae-in"},
+          {"text": "Cruel overwhelming destruction", "character": "ant king"}
+        ]
+      },
+      {
+        "question": "Pick your mindset:",
+        "options": [
+          {"text": "Upgrade and grind endlessly", "character": "sung jin-woo"},
+          {"text": "Dominate opponents from the start", "character": "thomas andre"},
+          {"text": "Move sharply and perfectly", "character": "cha hae-in"},
+          {"text": "Destroy everything", "character": "ant king"}
+        ]
+      },
+      {
+        "question": "How do you lead?",
+        "options": [
+          {"text": "Calm determined leadership", "character": "sung jin-woo"},
+          {"text": "Power intimidation", "character": "thomas andre"},
+          {"text": "Silent and efficient", "character": "cha hae-in"},
+          {"text": "Animalistic control", "character": "ant king"}
+        ]
+      },
+      {
+        "question": "Choose your training style:",
+        "options": [
+          {"text": "Pain and repetition", "character": "sung jin-woo"},
+          {"text": "Born powerful, little training", "character": "thomas andre"},
+          {"text": "Precision and discipline", "character": "cha hae-in"},
+          {"text": "Instinct over thought", "character": "ant king"}
+        ]
+      },
+      {
+        "question": "What power would you pick?",
+        "options": [
+          {"text": "Shadow army", "character": "sung jin-woo"},
+          {"text": "Super strength", "character": "thomas andre"},
+          {"text": "Super agility", "character": "cha hae-in"},
+          {"text": "Monstrous evolution", "character": "ant king"}
+        ]
+      }
+    ]
+  },
+
+  "all_rounder": [
+    {
+      "question": "When in danger, you…",
+      "options": [
+        {"text": "Fight until the last breath", "character": "guts"},
+        {"text": "Smile and keep going", "character": "luffy"},
+        {"text": "Create a perfect strategy", "character": "light"},
+        {"text": "Break limits with instinct", "character": "goku"}
+      ]
+    },
+    {
+      "question": "Pick your battle mood:",
+      "options": [
+        {"text": "Serious & focused", "character": "levi"},
+        {"text": "Chaotic & destructive", "character": "bakugo"},
+        {"text": "Calm but deadly", "character": "megumi"},
+        {"text": "Massively powerful without effort", "character": "saitama"}
+      ]
+    },
+    {
+      "question": "Choose your weapon:",
+      "options": [
+        {"text": "Sword", "character": "zoro"},
+        {"text": "Fists", "character": "itadori"},
+        {"text": "Mind & intellect", "character": "L"},
+        {"text": "Insane speed", "character": "zenitsu"}
+      ]
+    },
+    {
+      "question": "Your leadership style:",
+      "options": [
+        {"text": "Inspire with heart", "character": "tanjiro"},
+        {"text": "Control and power", "character": "aizen"},
+        {"text": "Strategy & planning", "character": "ryosuke"},
+        {"text": "Silent action", "character": "gojo"}
+      ]
+    },
+    {
+      "question": "Your greatest strength:",
+      "options": [
+        {"text": "Unshakeable will", "character": "guts"},
+        {"text": "Pure energy and joy", "character": "luffy"},
+        {"text": "Perfect calculation", "character": "light"},
+        {"text": "Raw power", "character": "goku"}
+      ]
+    }
+  ]
+}

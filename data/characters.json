@@ -1,0 +1,291 @@
+{
+  "luffy": {
+    "name": "Monkey D. Luffy",
+    "anime": "One Piece",
+    "title": "Future Pirate King",
+    "quote": "I'm gonna be King of the Pirates!",
+    "traits": "Unbreakable spirit, joy-driven, loyal, unstoppable willpower"
+  },
+  "zoro": {
+    "name": "Roronoa Zoro",
+    "anime": "One Piece",
+    "title": "Pirate Hunter",
+    "quote": "Scars on the back are a swordsman's shame.",
+    "traits": "Discipline, loyalty, endurance, unstoppable focus"
+  },
+  "robin": {
+    "name": "Nico Robin",
+    "anime": "One Piece",
+    "title": "Devil Child",
+    "quote": "I want to live!",
+    "traits": "Knowledge, calm logic, wisdom, darkness turned strength"
+  },
+  "sanji": {
+    "name": "Sanji",
+    "anime": "One Piece",
+    "title": "Black Leg",
+    "quote": "A real man forgives a woman's lies.",
+    "traits": "Style, passion, elegance, loyalty"
+  },
+  "jinbe": {
+    "name": "Jinbe",
+    "anime": "One Piece",
+    "title": "Knight of the Sea",
+    "quote": "No matter what happens, never lose faith!",
+    "traits": "Patience, wisdom, responsibility"
+  },
+  "smoker": {
+    "name": "Smoker",
+    "anime": "One Piece",
+    "title": "Marine Vice Admiral",
+    "quote": "Justice always comes with a price.",
+    "traits": "Duty, discipline, grit"
+  },
+  "crocodile": {
+    "name": "Crocodile",
+    "anime": "One Piece",
+    "title": "Desert King",
+    "quote": "Weakness is a sin.",
+    "traits": "Strategic genius, ruthless leadership"
+  },
+
+  "saitama": {
+    "name": "Saitama",
+    "anime": "One Punch Man",
+    "title": "Caped Baldy",
+    "quote": "I'm just a guy who’s a hero for fun.",
+    "traits": "Effortless power, boredom, unstoppable potential"
+  },
+  "genos": {
+    "name": "Genos",
+    "anime": "One Punch Man",
+    "title": "Demon Cyborg",
+    "quote": "Sensei, please train me!",
+    "traits": "Intense determination, loyalty"
+  },
+  "bang": {
+    "name": "Silver Fang",
+    "anime": "One Punch Man",
+    "title": "Martial Arts Master",
+    "quote": "Strength without discipline is meaningless.",
+    "traits": "Experience, calm power"
+  },
+  "tatsumaki": {
+    "name": "Tatsumaki",
+    "anime": "One Punch Man",
+    "title": "Tornado of Terror",
+    "quote": "Don’t underestimate me.",
+    "traits": "Overwhelming power, pride"
+  },
+
+  "goku": {
+    "name": "Son Goku",
+    "anime": "Dragon Ball Z",
+    "title": "Saiyan of Earth",
+    "quote": "I am the hope of the universe!",
+    "traits": "Courage, kindness, unmatched battle instinct"
+  },
+  "vegeta": {
+    "name": "Vegeta",
+    "anime": "Dragon Ball Z",
+    "title": "Prince of All Saiyans",
+    "quote": "It’s not over until I say it is!",
+    "traits": "Pride, rivalry, evolution"
+  },
+  "gohan": {
+    "name": "Gohan",
+    "anime": "Dragon Ball Z",
+    "title": "The Scholar Warrior",
+    "quote": "I won’t let you hurt anyone!",
+    "traits": "Hidden power, balance"
+  },
+  "piccolo": {
+    "name": "Piccolo",
+    "anime": "Dragon Ball Z",
+    "title": "Warrior Namek",
+    "quote": "Silence wins wars.",
+    "traits": "Wisdom, discipline, quiet strength"
+  },
+
+  "light": {
+    "name": "Light Yagami",
+    "anime": "Death Note",
+    "title": "Kira",
+    "quote": "I will become the God of the new world.",
+    "traits": "Intellect, manipulation, god complex"
+  },
+  "L": {
+    "name": "L",
+    "anime": "Death Note",
+    "title": "World’s Greatest Detective",
+    "quote": "Let’s play a game.",
+    "traits": "Logic, strategy, intuition"
+  },
+  "near": {
+    "name": "Near",
+    "anime": "Death Note",
+    "title": "Successor of L",
+    "quote": "The truth is always simple.",
+    "traits": "Cold logic, emotionless reasoning"
+  },
+  "misa": {
+    "name": "Misa Amane",
+    "anime": "Death Note",
+    "title": "Second Kira",
+    "quote": "I’d die for you.",
+    "traits": "Devotion, impulsiveness"
+  },
+
+  "itadori": {
+    "name": "Yuji Itadori",
+    "anime": "Jujutsu Kaisen",
+    "title": "The Human Monster",
+    "quote": "I want to help people.",
+    "traits": "Heart, strength, compassion"
+  },
+  "gojo": {
+    "name": "Satoru Gojo",
+    "anime": "Jujutsu Kaisen",
+    "title": "Strongest Sorcerer",
+    "quote": "Throughout heaven and earth, I alone am the honored one.",
+    "traits": "Cocky confidence, overwhelming power"
+  },
+  "megumi": {
+    "name": "Megumi Fushiguro",
+    "anime": "Jujutsu Kaisen",
+    "title": "Shadow Summoner",
+    "quote": "I want people to be saved fairly.",
+    "traits": "Strategist, quiet and deep"
+  },
+  "mahito": {
+    "name": "Mahito",
+    "anime": "Jujutsu Kaisen",
+    "title": "Curse of Chaos",
+    "quote": "Humans are so fragile.",
+    "traits": "Cruel curiosity, unpredictability"
+  },
+
+  "tanjiro": {
+    "name": "Tanjiro Kamado",
+    "anime": "Demon Slayer",
+    "title": "Sun Breathing Swordsman",
+    "quote": "I will never give up.",
+    "traits": "Heart, compassion, resolve"
+  },
+  "giyu": {
+    "name": "Giyu Tomioka",
+    "anime": "Demon Slayer",
+    "title": "Water Hashira",
+    "quote": "I won’t waste the lives saved.",
+    "traits": "Quiet, disciplined, duty-bound"
+  },
+  "zenitsu": {
+    "name": "Zenitsu Agatsuma",
+    "anime": "Demon Slayer",
+    "title": "Thunder Hashira Potential",
+    "quote": "When I'm asleep, I'm unstoppable!",
+    "traits": "Fear & explosion, unpredictability"
+  },
+  "muzan": {
+    "name": "Muzan Kibutsuji",
+    "anime": "Demon Slayer",
+    "title": "Demon King",
+    "quote": "Everything will bow before me.",
+    "traits": "Control, superiority, fear"
+  },
+
+  "all might": {
+    "name": "All Might",
+    "anime": "My Hero Academia",
+    "title": "Symbol of Peace",
+    "quote": "I am here!",
+    "traits": "Hope, leadership, sacrifice"
+  },
+  "bakugo": {
+    "name": "Katsuki Bakugo",
+    "anime": "My Hero Academia",
+    "title": "Explosion Hero",
+    "quote": "I’ll blow away every obstacle!",
+    "traits": "Aggression, explosive growth"
+  },
+  "todoroki": {
+    "name": "Shoto Todoroki",
+    "anime": "My Hero Academia",
+    "title": "Half-Cold, Half-Hot",
+    "quote": "I will shape my own future.",
+    "traits": "Balance, trauma, control"
+  },
+  "deku": {
+    "name": "Izuku Midoriya",
+    "anime": "My Hero Academia",
+    "title": "One for All Successor",
+    "quote": "I will save everyone!",
+    "traits": "Hard work, kindness"
+  },
+
+  "sung jin-woo": {
+    "name": "Sung Jin-Woo",
+    "anime": "Solo Leveling",
+    "title": "Shadow Monarch",
+    "quote": "Arise.",
+    "traits": "Growth, silence, dominance"
+  },
+  "thomas andre": {
+    "name": "Thomas Andre",
+    "anime": "Solo Leveling",
+    "title": "Strongest American Hunter",
+    "quote": "I am absolute strength.",
+    "traits": "Intimidation, brute power"
+  },
+  "cha hae-in": {
+    "name": "Cha Hae-In",
+    "anime": "Solo Leveling",
+    "title": "S-Rank Hunter",
+    "quote": "I won’t stop improving.",
+    "traits": "Discipline, precision"
+  },
+  "ant king": {
+    "name": "Ant King",
+    "anime": "Solo Leveling",
+    "title": "Monarch of Destruction",
+    "quote": "Consume and evolve.",
+    "traits": "Instinct, destruction"
+  },
+
+  "guts": {
+    "name": "Guts",
+    "anime": "Berserk",
+    "title": "The Black Swordsman",
+    "quote": "If you're always worried about being crushed, don't try to stand up.",
+    "traits": "Pain, endurance, unstoppable strength"
+  },
+  "griffith": {
+    "name": "Griffith",
+    "anime": "Berserk",
+    "title": "Falcon of Light",
+    "quote": "A dream can be worth more than a life.",
+    "traits": "Ambition, beauty, betrayal"
+  },
+  "casca": {
+    "name": "Casca",
+    "anime": "Berserk",
+    "title": "Warrior of the Hawks",
+    "quote": "Strength is earned through scars.",
+    "traits": "Loyalty, trauma, resistance"
+  },
+  "skullknight": {
+    "name": "Skull Knight",
+    "anime": "Berserk",
+    "title": "Death Rider",
+    "quote": "Defy the threads of fate.",
+    "traits": "Mystery, destiny, silence"
+  },
+
+  "levi": {
+    "name": "Levi Ackerman",
+    "anime": "Attack on Titan",
+    "title": "Humanity’s Strongest Soldier",
+    "quote": "Give your heart!",
+    "traits": "Precision, discipline, silent fury"
+  }
+}
